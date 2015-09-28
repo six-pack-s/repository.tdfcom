@@ -29,8 +29,8 @@
 		<datadir zip="true">https://github.com/six-pack-s/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Addons related to XBMC for Zemtv etc</summary>
-		<description>Go though the plugins and see what you like</description>
+		<summary>Addons related to XBMC for TDF etc</summary>
+		<description>Enjoy</description>
 		<platform>all</platform>
 	</extension>
 </addon>
